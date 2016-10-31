@@ -11,7 +11,7 @@ published: true
 cntfrm-form-on:
   - "1"
 cntfrm-form-order:
-  - before
+  - after
 cntfrm-form-template:
   - form-default.php
 ---
